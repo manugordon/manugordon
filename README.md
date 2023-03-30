@@ -1,5 +1,5 @@
-# 👋🏻 hola, soy manu:
-👨🏽‍💻 Desarrollador web full stack con experiencia en diseño web. <br>🚀 Constantemente busco aplicar mis conocimientos adquiridos y seguir desarrollandome profesionalmente.
+# 👋🏻 hi, i'm manu:
+👨🏽‍💻 Full stack web developer with experience in web design. <br>🚀 I am constantly seeking to apply my acquired knowledge and continue developing professionally.
 
 
 ### socials:
